@@ -58,6 +58,6 @@ if __name__ == '__main__':
     
 <!--RRSS KevinPatel04.md-->
 ## Let's Connect
-<a href="https://linkedin.com/in/a-delavega"><img src="https://img.shields.io/badge/-Kevin%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:alejandro.vegzul@gmail.com"><img src="https://img.shields.io/badge/-patelkvin04@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/_.delavega._"><img src="https://img.shields.io/badge/-kevinpatel.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/alejandro-de-la-vega-zuluaga-918785358"><img src="https://img.shields.io/badge/-Alejandro%20de la Vega Zuluaga-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:alejandro.vegzul@gmail.com"><img src="https://img.shields.io/badge/alejandro.vegzul@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/_.delavega._?igsh=dXB6MDFiMWs4YWp5"><img src="https://img.shields.io/badge/_.dekavega._-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
