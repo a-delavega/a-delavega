@@ -2,27 +2,16 @@
 <!--<h1 align="center">Hi , I'm Alejandro de la Vega <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>-->
 <div align="center" width="100">
   <img 
-  src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Hi,%20I'm%20Alejandro%20de%20la%20Vega&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn" 
+  src="https://capsule-render.vercel.app/api?color=0:1a1b26,50:3d59a1,100:bb9af7&height=250&section=header&text=Hi,%20I'm%20Alejandro%20de%20la%20Vega&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn" 
   alt="header"
 />
 </div>
 <!--About me-->
 
 ## <b> About me </b>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-I am a Computer Engineering student at Universidad de Burgos.<br>
-C, C++, Python, Java and Arduino are the programming languages I am good at.<br> 
-I love to learn and build something new, productive, innovative and creative.
-
-* **🤖I am interested in Artificial Intelligence, Mechine Learning, and Deep Learning**
-- 🌱 I’m currently learning more about...
-  - Python
-  - AI
-- 👯 I’m looking forward to collaborate on open source projects and met new people and learn about them.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, I love to play and coach football⚽ , travel✈️, and 🌴 explore nature outdoors.
-
+🎓I am a Computer Engineering student at Universidad de Burgos.<br>
+💻C, C++, Python, Java and Arduino are the programming languages I am good at.<br> 
+🚀I love to learn and build something new, productive, innovative and creative.
 
 ```python
 class WhoIAm():
@@ -38,7 +27,18 @@ if __name__ == '__main__':
     me = WhoIAm()
 ```
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
+### 🌱 **Currently Learning**  
+- Python & AI (Deep Learning, NLP, Computer Vision)  
+- Open-Source Contributions  
+
+### 🤝 **Looking to Collaborate On**  
+- Open-Source Projects 
+- AI & Robotics Innovations  
+
+### ⚡ **Fun Fact**  
+When I'm not coding, I'm either **coaching football ⚽, traveling ✈️, or exploring nature 🌿!**  
 
 <!--Skills-->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -55,9 +55,27 @@ if __name__ == '__main__':
   <a> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> </a>
 <!--Github Stats-->
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+  <!-- Contenedor flexible para Stats y Streak -->
+  <div style="display: flex; justify-content: center; gap: 20px; width: 100%; flex-wrap: wrap;">
+    <!-- GitHub Stats - Altura fija -->
+    <img src="https://github-readme-stats.vercel.app/api?username=a-delavega&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=Alejandro%20de%20la%20Vega%27s%20Stats&card_width=450" style="height: 195px; width: 450px; object-fit: contain;"/>
+    
+  <!-- Streak Stats - Mismas dimensiones -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-delavega&theme=tokyonight&hide_border=false&custom_title=Mi%20Racha&card_width=450" style="height: 195px; width: 450px; object-fit: contain;"/>
+  </div>
+
+  <!-- Top Languages (centrado y ajustado) -->
+  <div style="margin-top: 20px; width: 90%; max-width: 920px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-delavega&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=800"/>
+  </div>
+</div>
+</div>
     
 <!--RRSS KevinPatel04.md-->
 ## Let's Connect
+<div align="center" width="100">
 <a href="https://linkedin.com/in/alejandro-de-la-vega-zuluaga-918785358"><img src="https://img.shields.io/badge/Alejandro_de_la_Vega_Zuluaga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:alejandro.vegzul@gmail.com"><img src="https://img.shields.io/badge/alejandro.vegzul@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/_.delavega._?igsh=dXB6MDFiMWs4YWp5"><img src="https://img.shields.io/badge/a. de la vega-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</div>
