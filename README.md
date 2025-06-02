@@ -20,20 +20,19 @@ Here are some ideas to get you started:
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ```python
-class AbhigyanTrips():
+class WhoIAm():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+    self.name = "Alejandro de la Vega Zuluaga";
+    self.username = "a-delavega";
+    self.location = "Burgos, Spain";
+    self.linkedin = "@abhigyantrips";
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = WhoIAm()
 ```
 
 
