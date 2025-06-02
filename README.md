@@ -1,19 +1,28 @@
 <!--Saludo-->
-<h1 align="center">Hi , I'm Alejandro de la Vega <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<!--<h1 align="center">Hi , I'm Alejandro de la Vega <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>-->
+<div align="center" width="100">
+  <img 
+  src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Hi,%20I'm%20Alejandro%20de%20la%20Vega&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn" 
+  alt="header"
+/>
+</div>
 <!--About me-->
 
 ## <b> About me </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
+
+I am a Computer Engineering student at Universidad de Burgos.<br>
+C, C++, Python, Java and Arduino are the programming languages I am good at.<br> 
+I love to learn and build something new, productive, innovative and creative.
+
+* **🤖I am interested in Artificial Intelligence, Mechine Learning, and Deep Learning**
+- 🌱 I’m currently learning more about...
+  - Python
+  - AI
+- 👯 I’m looking forward to collaborate on open source projects and met new people and learn about them.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- Outside tech, I love to play and coach football⚽ , travel✈️, and 🌴 explore nature outdoors.
+
 
 ```python
 class WhoIAm():
@@ -36,3 +45,6 @@ if __name__ == '__main__':
 
 <!--Github Stats-->
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+
+<!--RRSS-->
+## Let's Connect
