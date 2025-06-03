@@ -9,9 +9,9 @@
 <!--About me-->
 
 ## <b> About me </b>
-🎓I am a Computer Engineering student at Universidad de Burgos.<br>
+🎓I am a Computer Engineering student at Burgos University.<br>
 💻C, C++, Python, Java and Arduino are the programming languages I am good at.<br> 
-🚀I love to learn and build something new, productive, innovative and creative.
+🚀I love learning and building something new, productive, innovative and creative.
 
 ```python
 class WhoIAm():
