@@ -59,15 +59,15 @@ When I'm not coding, I'm either **coaching football ⚽, traveling ✈️, or ex
   <!-- Contenedor flexible para Stats y Streak -->
   <div style="display: flex; justify-content: center; gap: 20px; width: 100%; flex-wrap: wrap;">
     <!-- GitHub Stats - Altura fija -->
-    <img src="https://github-readme-stats.vercel.app/api?username=a-delavega&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=Alejandro%20de%20la%20Vega%27s%20Stats&card_width=450" style="height: 195px; width: 450px; object-fit: contain;"/>
+    <!--<img src="https://github-readme-stats.vercel.app/api?username=a-delavega&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=Alejandro%20de%20la%20Vega%27s%20Stats&card_width=450" style="height: 195px; width: 450px; object-fit: contain;"/>-->
     
   <!-- Streak Stats - Mismas dimensiones -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-delavega&theme=tokyonight&hide_border=false&custom_title=Mi%20Racha&card_width=450" style="height: 195px; width: 450px; object-fit: contain;"/>
   </div>
 
   <!-- Top Languages (centrado y ajustado) -->
-  <div style="margin-top: 20px; width: 90%; max-width: 920px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-delavega&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=800"/>
+  <!--<div style="margin-top: 20px; width: 90%; max-width: 920px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-delavega&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=800"/>-->
   </div>
 </div>
 </div>
