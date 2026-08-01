@@ -9,9 +9,8 @@
 <!--About me-->
 
 ## <b> About me </b>
-🎓I am a Computer Engineering student at Burgos University.<br>
-💻C, C++, Python, Java and Arduino are the programming languages I am good at.<br> 
-🚀I love learning and building something new, productive, innovative and creative.
+🎓I am a Computer Engineering student at Universidad de Burgos (Spain).<br>
+💻I like building side projects to learn beyond the classroom, figure out how things work, and explore what interests me most in tech.
 
 ```python
 class Profile():
@@ -27,13 +26,13 @@ if __name__ == '__main__':
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-### 🌱 **Currently Learning**  
-- Python & AI (Deep Learning, NLP, Computer Vision)  
-- Open-Source Contributions  
+### 🚀 **What I'm currently working on**  
+- **Digital Goniometer (Side Project):** Building a hobby project using Python and MediaPipe to measure joint angles and explore computer vision basics.
+- **Expanding my stack:** Combining what I learn on my own with what I see in university.  
 
 ### 🤝 **Looking to Collaborate On**  
-- Open-Source Projects 
-- AI & Robotics Innovations  
+- Open-source projects related to AI or general software development.
+- Anything interesting where I can learn, break things, and collaborate with other developers. I'm still figuring out my path!
 
 ### ⚡ **Beyond the screen**  
 When I'm not writing code or debugging, you can find me coaching football ⚽, traveling ✈️, or exploring nature 🌿.  
