@@ -9,7 +9,7 @@
 
 <!-- Social Links / Contact -->
 <p align="center">
-  <a href="www.linkedin.com/in/alejandro-de-la-vega-zuluaga" target="_blank">
+  <a href="[www.linkedin.com/in/alejandro-de-la-vega-zuluaga](https://www.linkedin.com/in/alejandro-de-la-vega-zuluaga/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alejandro.vegzul@gmail.com">
