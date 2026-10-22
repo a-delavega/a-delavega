@@ -1,19 +1,28 @@
-<!--Saludo-->
-<!--<h1 align="center">Hi , I'm Alejandro de la Vega <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>-->
-<div align="center" width="100">
+<!-- Header -->
+<div align="center">
   <img 
-  src="https://capsule-render.vercel.app/api?color=0:1a1b26,50:3d59a1,100:bb9af7&height=250&section=header&text=Hi,%20I'm%20Alejandro%20de%20la%20Vega&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn" 
-  alt="header"
-/>
+    src="https://capsule-render.vercel.app/api?color=0:1a1b26,50:3d59a1,100:bb9af7&height=220&section=header&text=Hi,%20I'm%20Alejandro%20de%20la%20Vega&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn" 
+    alt="Header" 
+    width="100%"
+  />
 </div>
-<!--About me-->
 
-## <b> About me </b>
-🎓I am a Computer Engineering student at Universidad de Burgos (Spain).<br>
-💻I like building side projects to learn beyond the classroom, figure out how things work, and explore what interests me most in tech.
+<!-- Social Links / Contact -->
+<p align="center">
+  <a href="www.linkedin.com/in/alejandro-de-la-vega-zuluaga" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alejandro.vegzul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+## <b>About me</b>
+🎓 I am a Computer Engineering student at **Universidad de Burgos (Spain)**.<br>
+💻 I like building side projects to learn beyond the classroom, figure out how things work, and explore what interests me most in tech.
 
 ```python
-class Profile():
+class Profile:
     def __init__(self):
         self.name = "Alejandro de la Vega Zuluaga"
         self.role = "Computer Engineering Student"
@@ -24,56 +33,42 @@ if __name__ == '__main__':
     me = Profile()
 ```
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width="180px" alt="side sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### 🚀 **What I'm currently working on**  
-- **Digital Goniometer (Side Project):** Building a hobby project using Python and MediaPipe to measure joint angles and explore computer vision basics.
-- **Expanding my stack:** Combining what I learn on my own with what I see in university.  
+- **Digital Goniometer:** Building a project using Python and MediaPipe to measure joint angles and explore computer vision basics.
+- **Expanding my stack:** Combining university fundamentals with self-directed learning.
 
 ### 🤝 **Looking to Collaborate On**  
-- Open-source projects related to AI or general software development.
-- Anything interesting where I can learn, break things, and collaborate with other developers. I'm still figuring out my path!
+- Open-source projects related to AI, computer vision, or software development.
+- Anything interesting where I can learn, break things, and collaborate with other developers.
 
 ### ⚡ **Beyond the screen**  
-When I'm not writing code or debugging, you can find me coaching football ⚽, traveling ✈️, or exploring nature 🌿.  
+When I'm not writing code or debugging, you can find me coaching football ⚽, traveling ✈️, or exploring nature 🌿.
 
-<!--Skills-->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack & Tools</b>
-<!--Programming Languages-->
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
- 
-<!--Operating Systems-->
+---
+
+## <b>Tech Stack & Tools</b>
+
+### Programming Languages
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+</p>
+
 ### Operating Systems
-  <a> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> </a>
-  <a> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> </a>
-<!--Github Stats-->
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
-  <!-- Contenedor flexible para Stats y Streak -->
-  <div style="display: flex; justify-content: center; gap: 20px; width: 100%; flex-wrap: wrap;">
-    <!-- GitHub Stats - Altura fija -->
-    <!--<img src="https://github-readme-stats.vercel.app/api?username=a-delavega&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=Alejandro%20de%20la%20Vega%27s%20Stats&card_width=450" style="height: 195px; width: 450px; object-fit: contain;"/>-->
-    
-  <!-- Streak Stats - Mismas dimensiones -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-delavega&theme=tokyonight&hide_border=false&custom_title=Mi%20Racha&card_width=450" style="height: 195px; width: 450px; object-fit: contain;"/>
-  </div>
+<p align="left">
+  <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
+  &nbsp;&nbsp;
+  <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" />
+</p>
 
-  <!-- Top Languages (centrado y ajustado) -->
-  <!--<div style="margin-top: 20px; width: 90%; max-width: 920px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-delavega&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=800"/>-->
-  </div>
-</div>
-</div>
-    
-<!--RRSS KevinPatel04.md-->
-## Let's Connect
-<div align="center" width="100">
-<a href="https://linkedin.com/in/alejandro-de-la-vega-zuluaga-918785358"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:alejandro.vegzul@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/_.delavega._?igsh=dXB6MDFiMWs4YWp5"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</div>
+---
+
+## <b>Github Stats</b>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-delavega&theme=tokyonight&hide_border=false&custom_title=Mi%20Racha" alt="Alejandro's Streak" height="195" />
+</p>
