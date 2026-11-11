@@ -27,13 +27,18 @@
 ```python
 class Profile:
     def __init__(self):
-        self.name       = "Alejandro de la Vega Zuluaga"
-        self.role       = "Computer Engineering Student"
-        self.focus      = ["HPC & Parallel Computing", "Systems Programming", "AI Game-Tree Search"]
-        self.current    = "minimax-parallel-benchmark — Lazy SMP parallel search engine in C++20"
-        self.languages  = ["C++20", "Python", "Java", "C"]
+        self.name = "Alejandro de la Vega Zuluaga"
+        self.role = "Computer Engineering Student @ UBU"
+        self.focus = [
+            "HPC & Parallel Computing",
+            "Systems Programming (C++20)",
+            "Game-Tree Search & AI",
+        ]
+        self.building = "minimax-parallel-benchmark (Lazy SMP)"
+        self.languages = ["C++20", "Python", "Java", "C"]
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     me = Profile()
 ```
 
@@ -99,10 +104,13 @@ Coaching football ⚽ · Traveling ✈️ · Exploring nature 🌿
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-delavega&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="170" alt="Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-delavega&layout=compact&theme=tokyonight&hide_border=false" height="170" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-delavega&theme=tokyonight" alt="Profile Details" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-delavega&theme=tokyonight&hide_border=false" alt="Streak" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-delavega&theme=tokyonight" height="175" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a-delavega&theme=tokyonight" height="175" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-delavega&theme=tokyonight&hide_border=false" alt="Streak" height="175" />
 </p>
